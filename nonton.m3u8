@@ -1,8 +1,8 @@
 #EXTM3U
 #--------" INDONESIA "--------
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV (1)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV (1)
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/85gfZ13X/antv.png" group-title="INDONESIA",ANTV (2)
