@@ -32,8 +32,14 @@ https://cdn02.mola.tv/Content/HLS/Live/channel(f2cd666d-f350-1140-7ce5-3d7f39f84
 #EXTINF:-1 tvg-id="kompastv" tvg-logo="https://i.postimg.cc/4yb66Kx1/kompas-tv.png" group-title="INDONESIA",KOMPAS TV 
 http://group2-swiftservesd-1.dens.tv/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://i.postimg.cc/MK50Xj46/metro-tv.png" group-title="INDONESIA",METRO TV 
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="INDONESIA",METRO TV (1)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+
+#EXTINF:-1 tvg-id="metrotv" tvg-logo="https://i.postimg.cc/MK50Xj46/metro-tv.png" group-title="INDONESIA",METRO TV (2)
 http://rr.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="INDONESIA",METRO TV (3)
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bwvxnwcQ/mnc.png" group-title="INDONESIA",MNC TV HD 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
