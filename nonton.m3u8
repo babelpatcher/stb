@@ -35,7 +35,7 @@ http://group2-swiftservesd-1.dens.tv/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/metrotv.png" group-title="INDONESIA",METRO TV (1)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
-#EXTINF:-1 tv-name="Metro TV" tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="INDONESIA", METRO TV  (2)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="INDONESIA", METRO TV (2)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="metrotv" tvg-logo="https://i.postimg.cc/MK50Xj46/metro-tv.png" group-title="INDONESIA",METRO TV (3)
