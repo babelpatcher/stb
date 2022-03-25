@@ -82,17 +82,23 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-id="sctv" tvg-logo="https://i.postimg.cc/xjyMFz9v/sctv.png" group-title="INDONESIA",SCTV 
 http://group2-swiftservesd-1.dens.tv/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="INDONESIA",TRANS TV
-http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.postimg.cc/BQSHWnvd/trans-7.png" group-title="INDONESIA",TRANS 7 (1)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="INDONESIA", TRANS TV (2)
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="INDONESIA",TRANS 7 (2)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="INDONESIA",TRANS 7
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="INDONESIA",TRANS 7 (3)
 http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
 
-#EXTINF:-1 tvg-id="trans7" tvg-logo="https://i.postimg.cc/BQSHWnvd/trans-7.png" group-title="INDONESIA",TRANS 7 (2) 
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV ID" tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="INDONESIA", TRANS TV (1)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="INDONESIA",TRANS TV (2)
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="INDONESIA",TRANS TV (3)
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 
 #EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="INDONESIA",TV ONE 
 http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
