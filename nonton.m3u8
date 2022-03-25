@@ -100,7 +100,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="INDONESIA",TRANS TV (3)
 http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
 
-#EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="INDONESIA",TV ONE 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="INDONESIA",TV ONE (1)
+http://tvn.x10.bz/xchannel/master-13.m3u8
+
+#EXTINF:-1 tvg-id="tvone" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png" group-title="INDONESIA",TV ONE (2)
 http://group2-swiftservesd-1.dens.tv/s/s105/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
