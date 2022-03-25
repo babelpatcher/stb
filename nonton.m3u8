@@ -587,6 +587,13 @@ http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png" group-title="SPORT", ABU DHABI SPORTS 4
 http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",CHAMPIONS TV 1
+http://tvn.x10.bz/xchannel/master-6.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",CHAMPIONS TV 2
+http://tvn.x10.bz/xchannel/master-7.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",CHAMPIONS TV 3
+http://tvn.x10.bz/xchannel/master-8.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RCTDGfnk/DUBAI-SPORTS.png" group-title="SPORT", DUBAI SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T1QNwM6d/DUBAI-SPORTS-2.png" group-title="SPORT", DUBAI SPORTS 2
