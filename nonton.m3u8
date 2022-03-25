@@ -482,9 +482,6 @@ http://stream.atr.ua/lale//live/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 tvg-id="mykids" tvg-logo="https://i.postimg.cc/rs6Vtxnq/my-kidz.png" group-title="KIDS",MY KIDS 
-http://rr.dens.tv/h/h98/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d7wKKPT/NCKDEON-S1.png" group-title="KIDS",Nickelodeon
