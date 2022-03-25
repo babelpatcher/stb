@@ -558,7 +558,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="KOREA",TVN 2
 http://tvn.x10.bz/xchannel/master-16.m3u8
 
-#EXTINF:-1 tvg-id="tvn.my" tvg-name="tvN HD" tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="KOREA",tvN HD
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/7f1eaa630170244ea3da72e50b0251a6.png" group-title="KOREA",tvN HD
 http://shareext@urtv.cc:80/live/297340/297340/6844.ts?Shareext.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -566,7 +566,7 @@ http://shareext@urtv.cc:80/live/297340/297340/6844.ts?Shareext.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="KOREA",TvN movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="tvN Movies" tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="KOREA",tvN Movies 2
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/9d84ccde47792f4eae3504e6a68877c7.png" group-title="KOREA",tvN Movies 2
 http://shareext@urtv.cc:80/live/297340/297340/6845.ts?Shareext.ts
 
 #--------" BEIN SPORTS "--------
