@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/indosiar_vid.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="INDONESIA",NET (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/net_tv_vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="INDONESIA",SCTV (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/sctv_vid.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",Trans 7 (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/trans7_vid.m3u8
 
