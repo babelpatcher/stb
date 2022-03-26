@@ -1,8 +1,11 @@
 #EXTM3U
 #--------" INDONESIA "--------
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="INDONESIA",INDOSIAR (VID)
-#http://tvn.x10.bz/xchannel/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/antv_vid.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA",INDOSIAR (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/indosiar_vid.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="INDONESIA",Trans 7 (VID)
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="INDONESIA",Trans 7 (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/trans7_vid.m3u8
