@@ -42,6 +42,10 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/tvri_vid.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="INDONESIA",TV ONE (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/tv_one_vid.m3u8
 
+#--------" KIDS "--------
+#EXTINF:-1 tvg-logo="" group-title="KIDS",HOREE (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/horee_vid.m3u8
+
 #--------" KNOWLEDGE "--------
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BCboNNIt8gGqFZ4ySztLA4K65_o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="KNOWLEDGE",DW TV (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/dw_tv_vid.m3u8
