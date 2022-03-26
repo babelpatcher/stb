@@ -1,6 +1,5 @@
 #EXTM3U
 #--------" INDONESIA "--------
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/antv_vid.m3u8
 
@@ -24,3 +23,7 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/transtv_vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" group-title="INDONESIA",TVRI (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/tvri_vid.m3u8
+
+#--------" SPORTS "--------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Champion TV 3 (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/champion_tv_3_vid.m3u8
