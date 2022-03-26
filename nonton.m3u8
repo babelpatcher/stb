@@ -610,6 +610,9 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 http://shareext@urtv.cc:80/live/297340/297340/6845.ts?Shareext.ts
 
 #--------" BEIN SPORTS "--------
+#EXTINF:-1 tvg-logo="" group-title="BEIN SPORTS",Bein Premium 1
+https://mixflixnoda.xyz/MixFlixx/AppmixFlixxx/2
+
 #EXTINF:-1 tvg-id="bein1" tvg-logo="https://i.postimg.cc/KzGPnhCq/logo-bein1-big1.png" group-title="BEIN SPORTS",beIN Sports 1 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
