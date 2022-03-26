@@ -46,6 +46,9 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/tv_one_vid.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/BCboNNIt8gGqFZ4ySztLA4K65_o=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-tv-stream-724fc3.jpg" group-title="KNOWLEDGE",DW TV (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/dw_tv_vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TwTG9JbX/logo-tvedukasi-big1.png" group-title="KNOWLEDGE",TV EDUKASI (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/tv_edukasi_vid.m3u8
+
 #--------" SPORTS "--------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Champion TV 3 (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/champion_tv_3_vid.m3u8
