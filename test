@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/antv_vid.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png" group-title="INDONESIA",Berita Satu (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/berita_satu_vid.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA",DAAI TV (VID)
+https://raw.githubusercontent.com/babelpatcher/stb/main/daai_tv_vid.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="INDONESIA",INDOSIAR (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/indosiar_vid.m3u8
 
