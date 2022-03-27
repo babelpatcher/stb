@@ -1,10 +1,10 @@
 #EXTM3U
 #--------" INDONESIA "--------
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV (VID)
-https://raw.githubusercontent.com/babelpatcher/stb/main/antv_vid.m3u8
+https://idcloud.tech/antv_vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png" group-title="INDONESIA",Berita Satu (VID)
-https://raw.githubusercontent.com/babelpatcher/stb/main/berita_satu_vid.m3u8
+https://idcloud.tech/beritasatu_vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="INDONESIA",DAAI TV (VID)
 https://raw.githubusercontent.com/babelpatcher/stb/main/daai_tv_vid.m3u8
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/babelpatcher/stb/main/transtv_vid.m3u8
 https://raw.githubusercontent.com/babelpatcher/stb/main/tvri_vid.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvone_big1.png" group-title="INDONESIA",TV ONE (VID)
-https://raw.githubusercontent.com/babelpatcher/stb/main/tv_one_vid.m3u8
+https://idcloud.tech/tvone_vid.m3u8
 
 #--------" KIDS "--------
 #EXTINF:-1 tvg-logo="" group-title="KIDS",HIP HIP HOREE (VID)
